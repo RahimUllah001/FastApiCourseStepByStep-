@@ -10,3 +10,5 @@
 
 ### PostgreSQL Queries and Results
 
+### Connecting database psycopg2 connector
+
