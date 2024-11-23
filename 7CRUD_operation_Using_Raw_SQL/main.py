@@ -79,7 +79,7 @@ async def create_posts(post: Post):
 @app.get("/posts/{id}")
 def get_post(id: int): 
     
-    cursor.execute("""SELECT * FROM posts WHERE id = %s  returning *""",(str(id),))     #here 
+    cursor.execute("""SELECT * FROM posts WHERE id = %s """,(str(id),))     #here 
     post = cursor.fetchone()
     print(post)
 
