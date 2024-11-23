@@ -28,7 +28,7 @@ You can view the full details of this project [here](./4doing crud operation usi
 
 
 ### Day 5 - Project 5: PostgreSQL Queries and Results
-You can view the full details of this project [here](./- [Day 5 - PostgreSQL Queries and Results](./5Database_querries/)/PROJECT5.md).
+You can view the full details of this project [here](./5Database_querries/PROJECT5.md).
 
 
 ### Day 6 - Project 6: Connecting database psycopg2 connector
