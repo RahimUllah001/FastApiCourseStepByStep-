@@ -66,7 +66,7 @@ async def get_post(id: int):
 
 
 @app.delete("/posts/{id}")
-async def update_post(id: int): 
+async def delete_post(id: int): 
 
     post = find_post(id)
     if not post:
