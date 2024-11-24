@@ -91,7 +91,7 @@ def get_post(id: int):
 
 # Delete a post
 @app.delete("/posts/{id}")
-async def update_post(id: int): 
+async def delete_post(id: int): 
 
     cursor.execute("""DELETE  FROM posts WHERE id = %s returning * """, (str(id),))
     post = cursor.fetchone()
