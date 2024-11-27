@@ -15,6 +15,7 @@ This repository contains projects from my Django crash course. Each day, I creat
 - [Day 11 - Creating User Table and User Registeration and Hashing Password](./11Creating_User_Table_and_User_Registeration_and_Hashing_Password/)
 - [Day 12 - Implementation of API Router Achieving  Modular Design](./12Implementation_of_API_Router_Achieving_Modular_Design/)
 - [Day 13 - Login User and Creating and Assigning Token to User](./13Login_User_and_Creating_and_Assigning_Token_toUser/)
+- [Day 14 - Protecting Routes and Verifying Token](./14Login_User_and_Creating_and_Assigning_Token_toUser/)
 
 
 ## Project Descriptions
@@ -65,8 +66,11 @@ You can view the full details of this project [here](./8Sqlalchemysetup_and_how_
 
 
 
-
 ### Day 13- Project 13:  Login User and Creating and Assigning Token to User
+You can view the full details of this project [here](./8Sqlalchemysetup_and_how_to_create_table_through_sqlalchemy/PROJECT6.md).
+
+
+### Day 14- Project 14:  Protecting Routes and Verifying Token
 You can view the full details of this project [here](./8Sqlalchemysetup_and_how_to_create_table_through_sqlalchemy/PROJECT6.md).
 
 
