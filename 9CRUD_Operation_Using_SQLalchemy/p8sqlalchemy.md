@@ -1,0 +1,3 @@
+sql alchemy cannot directly interact with database but for interaction we still have to use pscogy2 driver.adopter
+sql alchemy not directly supports migrations i.e when u make changes to xisting table it doenot happeren to it because sqlalchemy first check that th etable ia not exixt in db when the code running
+so i if the table already exist it do nothing because 1st condition false so it cannot make changes to tableu

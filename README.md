@@ -9,6 +9,7 @@ This repository contains projects from my Django crash course. Each day, I creat
 - [Day 6 - Connecting database psycopg2 connector](./gs51/)
 - [Day 7 - CRUD operation Using Raw SQL](./7CRUD_operation_Using_Raw_SQL/)
 - [Day 8 - How to set Sqlalchemy and how to create table through sqlalchemy](./8Sqlalchemysetup_and_how_to_create_table_through_sqlalchemy/)
+- [Day 9 - How to achieve CRUD Operation Using SQLalchemy](./9CRUD_Operation_Using_SQLalchemy/)
 
 
 ## Project Descriptions
@@ -38,8 +39,11 @@ You can view the full details of this project [here](./6connecting postgres thro
 
 
 
-
 ### Day 8- Project 8: Sqlalchemysetup_and_how_to_create_table_through_sqlalchemy
+You can view the full details of this project [here](./8Sqlalchemysetup_and_how_to_create_table_through_sqlalchemy/PROJECT6.md).
+
+
+### Day 9- Project 9: CRUD_Operation_Using_SQLalchemy
 You can view the full details of this project [here](./8Sqlalchemysetup_and_how_to_create_table_through_sqlalchemy/PROJECT6.md).
 
 
