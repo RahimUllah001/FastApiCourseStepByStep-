@@ -10,6 +10,7 @@ This repository contains projects from my Django crash course. Each day, I creat
 - [Day 7 - CRUD operation Using Raw SQL](./7CRUD_operation_Using_Raw_SQL/)
 - [Day 8 - How to set Sqlalchemy and how to create table through sqlalchemy](./8Sqlalchemysetup_and_how_to_create_table_through_sqlalchemy/)
 - [Day 9 - How to achieve CRUD Operation Using SQLalchemy](./9CRUD_Operation_Using_SQLalchemy/)
+- [Day 10 - How to Set Response Model](./10How_to_Set_Response_Model/)
 
 
 ## Project Descriptions
