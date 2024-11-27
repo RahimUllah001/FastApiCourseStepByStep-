@@ -7,8 +7,8 @@ This repository contains projects from my Django crash course. Each day, I creat
 - [Day 4 - FastAPI CRUD Operations Project](./4doing crud operation using memory not database/)
 - [Day 5 - PostgreSQL Queries and Results](./5Database_querries/)
 - [Day 6 - Connecting database psycopg2 connector](./gs51/)
-- [Day 7 - Connecting database psycopg2 connector](./gs51/)
-- [Day 6 - How to set Sqlalchemy and how to create table through sqlalchemy](./8Sqlalchemysetup_and_how_to_create_table_through_sqlalchemy/)
+- [Day 7 - CRUD operation Using Raw SQL](./7CRUD_operation_Using_Raw_SQL/)
+- [Day 8 - How to set Sqlalchemy and how to create table through sqlalchemy](./8Sqlalchemysetup_and_how_to_create_table_through_sqlalchemy/)
 
 
 ## Project Descriptions
