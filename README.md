@@ -13,7 +13,7 @@ This repository contains projects from my Django crash course. Each day, I creat
 - [Day 10 - How to Set Response Model](./10How_to_Set_Response_Model/)
 
 - [Day 11 - Creating User Table and User Registeration and Hashing Password](./11Creating_User_Table_and_User_Registeration_and_Hashing_Password/)
-- [Day 12 - Implementation of API Router Achieving  Modular Design](./12Implementation_of_API_Router_Achieving _Modular_Design/)
+- [Day 12 - Implementation of API Router Achieving  Modular Design](./12Implementation_of_API_Router_Achieving_Modular_Design/)
 
 
 ## Project Descriptions
@@ -59,7 +59,7 @@ You can view the full details of this project [here](./8Sqlalchemysetup_and_how_
 You can view the full details of this project [here](./8Sqlalchemysetup_and_how_to_create_table_through_sqlalchemy/PROJECT6.md).
 
 
-### Day 11- Project 11:  Implementation of API Router Achieving  Modular Design
+### Day 12- Project 12:  Implementation of API Router Achieving  Modular Design
 You can view the full details of this project [here](./8Sqlalchemysetup_and_how_to_create_table_through_sqlalchemy/PROJECT6.md).
 
 
