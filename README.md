@@ -17,7 +17,10 @@ This repository contains projects from my Django crash course. Each day, I creat
 - [Day 13 - Login User and Creating and Assigning Token to User](./13Login_User_and_Creating_and_Assigning_Token_toUser/)
 - [Day 14 - Protecting Routes and Verifying Token](./14Login_User_and_Creating_and_Assigning_Token_toUser/)
 - [Day 15 - Getting Current User through Protected Routes i.e Getting_Data_from_Token](./15Getting_Current_User_through_Protected_Routes_or_Getting_Data_from_Token/)
+
 - [Day 16 -  Achieving Many to One Relationship through Fastapi By Making Realtionship bw User table and Post Tabl eSo that we can see who create the Post](./16Achieving_Many_to_One_Relationship_through_Fastapi_By_Making_Realtionship_bw_User_table_and_Post_Table_So_that_we_can_see_who_create_the_Post/)
+
+- [Day 17 -  17Dleting and updating only your own posts](./17Dleting_and_Updating_Only_Your_Own_Posts/)
 
 
 ## Project Descriptions
@@ -85,6 +88,11 @@ You can view the full details of this project [here](./8Sqlalchemysetup_and_how_
 
 
 ### Day 16- Achieving Many to One Relationship through Fastapi By Making Realtionship bw User table and Post Tabl eSo that we can see who create the Post
+You can view the full details of this project [here](./8Sqlalchemysetup_and_how_to_create_table_through_sqlalchemy/PROJECT6.md).
+
+
+
+### Day 16- Dleting and updating only your own posts
 You can view the full details of this project [here](./8Sqlalchemysetup_and_how_to_create_table_through_sqlalchemy/PROJECT6.md).
 
 
