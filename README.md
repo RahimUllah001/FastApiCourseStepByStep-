@@ -21,6 +21,7 @@ This repository contains projects from my Django crash course. Each day, I creat
 - [Day 16 -  Achieving Many to One Relationship through Fastapi By Making Realtionship bw User table and Post Tabl eSo that we can see who create the Post](./16Achieving_Many_to_One_Relationship_through_Fastapi_By_Making_Realtionship_bw_User_table_and_Post_Table_So_that_we_can_see_who_create_the_Post/)
 
 - [Day 17 -  17Dleting and updating only your own posts](./17Dleting_and_Updating_Only_Your_Own_Posts/)
+- [Day 17 -  Using Querry parameters like pagination and search](./18Using_Querry_Parameters_like_Pagination_Search/)
 
 
 ## Project Descriptions
@@ -92,7 +93,13 @@ You can view the full details of this project [here](./8Sqlalchemysetup_and_how_
 
 
 
-### Day 16- Dleting and updating only your own posts
+### Day 17- Dleting and updating only your own posts
+You can view the full details of this project [here](./8Sqlalchemysetup_and_how_to_create_table_through_sqlalchemy/PROJECT6.md).
+
+
+
+
+### Day 18- Using Querry parameters like pagination search
 You can view the full details of this project [here](./8Sqlalchemysetup_and_how_to_create_table_through_sqlalchemy/PROJECT6.md).
 
 

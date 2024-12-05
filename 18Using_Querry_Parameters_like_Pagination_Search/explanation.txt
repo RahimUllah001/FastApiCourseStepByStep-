@@ -1,0 +1,10 @@
+Querry Parameters
+
+when i search any thing 
+https://www.yelp.com/search?find_desc=&find_loc=San+Francisco%2C+CA
+
+all the thing in the in the above after question mark ? is querry parameter on this basis it do filtering
+
+in this project i used different querry paramater how to used ssearch on specifi thing in content or title  
+
+how to use skip and limit
