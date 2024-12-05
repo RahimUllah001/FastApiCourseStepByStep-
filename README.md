@@ -6,7 +6,7 @@ This repository contains projects from my Django crash course. Each day, I creat
 - [Day 3 - Understanding Pydantic Models](./3How_and_why_to_use_Pydantic_model/)
 - [Day 4 - FastAPI CRUD Operations Project](./4CRUD_Operation_Using_Memory_Not_Database/)
 - [Day 5 - PostgreSQL Queries and Results](./5Database_querries/)
-- [Day 6 - Connecting database psycopg2 connector](./gs51/)
+- [Day 6 - Connecting database psycopg2 connector](./6How_to_Make_Connection_to_Databse_Using_Psycopg/)
 - [Day 7 - CRUD operation Using Raw SQL](./7CRUD_operation_Using_Raw_SQL/)
 - [Day 8 - How to set Sqlalchemy and how to create table through sqlalchemy](./8Sqlalchemysetup_and_how_to_create_table_through_sqlalchemy/)
 - [Day 9 - How to achieve CRUD Operation Using SQLalchemy](./9CRUD_Operation_Using_SQLalchemy/)
