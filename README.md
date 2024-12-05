@@ -22,7 +22,7 @@ This repository contains projects from my Django crash course. Each day, I creat
 
 - [Day 17 -  Dleting and updating only your own posts](./17Dleting_and_Updating_Only_Your_Own_Posts/)
 - [Day 18 -  Using Querry parameters like pagination and search](./18Using_Querry_Parameters_like_Pagination_Search/)
-- [Day 19 -  How to make Envirnmenet variables Secure](./19How_To_make Envirnment_Variables_Secure/)
+- [Day 19 -  How to make Envirnmenet variables Secure](./19How_To_make_Envirnment_Variables_Secure/)
 
 
 ## Project Descriptions
