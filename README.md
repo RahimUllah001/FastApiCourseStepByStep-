@@ -2,7 +2,7 @@
 This repository contains projects from my Django crash course. Each day, I create a new project and add something new to learn Django concepts.
 
 - [Day 1 - FastAPI Hello World Application](./1Hello_World_Program/)
-- [Day 2 - Demonstrating Basic HTTP Methods (GET and POST)](./2how to use get and post requests how send data from postman to the api/)
+- [Day 2 - Demonstrating Basic HTTP Methods (GET and POST)](./2how_to_use_get_and_post_requests_how_send_data_from_postman_to_the_api/)
 - [Day 3 - Understanding Pydantic Models](./3How_and_why_to_use_Pydantic_model/)
 - [Day 4 - FastAPI CRUD Operations Project](./4CRUD_Operation_Using_Memory_Not_Database/)
 - [Day 5 - PostgreSQL Queries and Results](./5Database_querries/)
@@ -34,7 +34,7 @@ You can view the full details of this project [here](./1Hello_World_Program/proj
 
 
 ### Day 2 - Project 2: Demonstrating Basic HTTP Methods (GET and POST)
-You can view the full details of this project [here](./2how to use get and post requests how send data from postman to the api/project2.md).
+You can view the full details of this project [here](./2how_to_use_get_and_post_requests_how_send_data_from_postman_to_the_api/project2.md).
 
 
 ### Day 3 - Project 3: Understanding Pydantic Models
