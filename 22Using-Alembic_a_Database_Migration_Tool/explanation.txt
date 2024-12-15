@@ -1,0 +1,7 @@
+alembic is a database migration tool
+alembic revision  -m "make new file" ==> this line will create a new file here your ugrade and degrade function u can write 
+alembic current tell u that upto whixh thingd have migrated to database
+alemic head tell u that where u have  amde dyour last change that should be migrated to db 
+alembic upgrade head makes migrations
+
+alembic revision --autogenerate -m "likes and postable autogernerated" == this lines makes the upgrade and downgrade function in file from your model file directly

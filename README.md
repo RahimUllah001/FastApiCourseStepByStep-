@@ -25,6 +25,7 @@ This repository contains projects from my Django crash course. Each day, I creat
 - [Day 19 -  How to make Envirnmenet variables Secure](./19How_To_make_Envirnment_Variables_Secure/)
 - [Day 20 -  How to like or vote a post that is by making Composite key by combining Userid and Postid](./20How_to_Like_or_Vote_a_post_that_is_by_making_Composite_key_by_combining_Userid_and_Postid/)
 - [Day 21 -  How to Use SQLJoins and show likes with Posts](./21How_to_Use_SQLJoins_and_show_likes_with_Posts/)
+- [Day 21 -  How to Use Alembic a Database Migration Tool](./22Using-Alembic_a_Database_Migration_Tool/)
 
 
 ## Project Descriptions
@@ -120,6 +121,9 @@ You can view the full details of this project [here](./8Sqlalchemysetup_and_how_
 
 
 ### Day 21- How to Use SQLJoins and show likes with Posts
+You can view the full details of this project [here](./8Sqlalchemysetup_and_how_to_create_table_through_sqlalchemy/PROJECT6.md).
+
+### Day 22- How to Use Alembic a Database Migration Tool
 You can view the full details of this project [here](./8Sqlalchemysetup_and_how_to_create_table_through_sqlalchemy/PROJECT6.md).
 
 
